@@ -2,7 +2,7 @@
 
 ## Control Flow Graph
 
-![CFG дијаграм](cfg.png)
+![CFG дијаграм](graph.png)
 
 ## Цикломатска комплексност
 
